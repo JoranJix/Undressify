@@ -4,10 +4,10 @@
 - Its possible to let anyone undress you
 - Undress animations
 
-INSTRUCTIONS
+### INSTRUCTIONS
 
 
-How to create the folders
+## How to create the folders
 
 !!NEVER KEEP THE HUD WITHIN YOUR ~undressify FOLDER!! 
 It would get detached on avatar change.
@@ -40,7 +40,7 @@ Click it and check how your clothing will be undressed.
 Holds stuff you dont want in your outfits like AOs or Dancehuds.. etcetera
 
 
-Tips and tricks
+## Tips and tricks
 
 If you change some textures via HUD on some of your clothing,
 take that piece off manually and reattach it after you changed it.
@@ -49,7 +49,7 @@ Sounds corrospond to the folder names. So if you you have a folder named 'top_1'
 You can place your own sounds in the object for different sounds
 
 
-Tested viewers
+## Tested viewers
 
 Firestorm Viewer - Working (tested on Windows and Ubuntu) - RestrainedLife viewer v3.4.3 (RLVa 2.4.2)
 Black Dragon - Working (tested on Windows) - RestrainedLife viewer v3.3.3 (RLVa 2.3.0)
@@ -67,7 +67,7 @@ mysmartbots - Working but only from remote side limited functions- NOT RECOMMEND
 Corrade Bot - limited functions - RLV is super outdated. Only 16 available attachement points. Reactiontime is very slow.
 Lumiya Mobile client- its working. Thats a surprise!
 
-Not Tested viewers
+## Not Tested viewers
 
 Speedlight
 Mobile Grid Client<
