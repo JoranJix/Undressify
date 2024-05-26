@@ -1,30 +1,26 @@
 Features:
-
     - People on your SL friendlist can undress you
     - You can specify people in the .config notecard to be able to undress you
     - Its possible to let anyone undress you
     - Undress animations
 
-###INSTRUCTIONS###
+INSTRUCTIONS
 
 
-##How to create the folders##
+How to create the folders##
     !!NEVER KEEP THE HUD WITHIN YOUR ~undressify FOLDER!! It would get detached on avatar change.
     I dont take any responsibilities if the hud fails working with other RLV tools.
     You have to create a basic folder structure which is explained below.
     Following Folder Structure is needed to run OpenUndress
 
-##Look at the examples to see how your folders need to look like!##
+Look at the examples to see how your folders need to look like!##
     #RLV~undressify\av\<youravatarname>
     ![Avatar](https://github.com/JoranJix/Undressify/assets/4482238/225f0f78-8195-4bb7-81c3-0dc1745f25ae)
     Put your naked avatar into this folder. You can have multiple folders. Load an avatar from the >Avatar< button!
-    
     #RLV~undressify\of\<youroutfitname>
-    
     ![outfits (2)](https://github.com/JoranJix/Undressify/assets/4482238/74024574-533a-4f31-9574-f19164618187)
     Put your ouftfit into this folder. You can have multiple folders. Load an Outfit from the >Outfits< button! The button >Clothing< will appear.
     Click it and check how your clothing will be undressed. 
-    
     #RLV~undressify\addon\<category>\<item>
     ![Addons](https://github.com/JoranJix/Undressify/assets/4482238/bc536f69-9b79-4f2c-ade0-532bd3b945eb)
     Holds stuff you dont want in your outfits like AOs or Dancehuds.. etcetera
