@@ -5,18 +5,16 @@ Features:
     - Its possible to let anyone undress you
     - Undress animations
 
-INSTRUCTIONS
+###INSTRUCTIONS###
 
 
-How to create the folders
-
+##How to create the folders##
     !!NEVER KEEP THE HUD WITHIN YOUR ~undressify FOLDER!! It would get detached on avatar change.
     I dont take any responsibilities if the hud fails working with other RLV tools.
     You have to create a basic folder structure which is explained below.
     Following Folder Structure is needed to run OpenUndress
 
-Look at the examples to see how your folders need to look like!
-
+##Look at the examples to see how your folders need to look like!##
     #RLV~undressify\av\<youravatarname>
     ![Avatar](https://github.com/JoranJix/Undressify/assets/4482238/225f0f78-8195-4bb7-81c3-0dc1745f25ae)
     Put your naked avatar into this folder. You can have multiple folders. Load an avatar from the >Avatar< button!
