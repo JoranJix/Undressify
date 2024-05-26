@@ -69,7 +69,8 @@ Lumiya Mobile client- its working. Thats a surprise!
 
 Not Tested viewers
 
-    Speedlight
-    Mobile Grid Client<
-    MetaChat
+Speedlight
+Mobile Grid Client<
+MetaChat
+Lumiya
 
