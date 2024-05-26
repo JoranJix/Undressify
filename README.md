@@ -1,6 +1,6 @@
 ### Key Features:
 - People on your SL friendlist can undress you
-- You can specify people in the .config notecard to be able to undress you
+- Easy to configure access list
 - Its possible to let anyone undress you
 - Undress animations
 
