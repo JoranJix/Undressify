@@ -11,7 +11,7 @@ All old data, objects and scripts are lost forever. So a new start had to be mad
 
 ### Bug Reporting
 
-If you discover a bog or a problem, pleas open an issue here on GitHub!
+If you discover a bug or a problem, pleas open an issue here on GitHub!
 
 ### Key Features:
 - People on your SL friendlist can undress you
