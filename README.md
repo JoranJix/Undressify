@@ -54,6 +54,7 @@ Click it and check how your clothing will be undressed.
 
 Holds stuff you dont want in your outfits like AOs or Dancehuds.. etcetera
 
+You can now click your belly or lower back to open the menu and load your avatar, outfit etcetera...
 
 ## Tips and tricks
 
