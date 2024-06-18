@@ -13,6 +13,12 @@ All old data, objects and scripts are lost forever. So a new start had to be mad
 
 If you discover a bug or a problem, pleas open an issue here on GitHub!
 
+### Key Changes:
+
+- Leaner code easier to develop
+- Avatars and outfits are not connected anymore
+- No more connection to Casper
+
 ### Key Features:
 - People on your SL friendlist can undress you
 - Easy to configure access list
