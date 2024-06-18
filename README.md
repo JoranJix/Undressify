@@ -62,12 +62,6 @@ Holds stuff you dont want in your outfits like AOs or Dancehuds.. etcetera
 
 You can now click your belly or lower back to open the menu and load your avatar, outfit etcetera...
 
-## Addons Folder
-
-Create a folder structure like in this example!
-![Addons](https://github.com/JoranJix/Undressify/assets/4482238/8c0535fe-2812-4357-be81-dcef87f7c6a4)
-
-
 ## Tips and tricks
 
 If you change some textures via HUD on some of your clothing,
