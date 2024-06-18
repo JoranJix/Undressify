@@ -9,6 +9,10 @@ Friends on your friends list can now undress you without an extra entry.
 What is still missing are sounds. 
 All old data, objects and scripts are lost forever. So a new start had to be made.
 
+### Bug Reporting
+
+If you discover a bog or a problem, pleas open an issue here on GitHub!
+
 ### Key Features:
 - People on your SL friendlist can undress you
 - Easy to configure access list
