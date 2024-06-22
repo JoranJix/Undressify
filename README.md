@@ -34,6 +34,11 @@ Same goes for feature requests.
 - Its possible to let anyone undress you
 - Undress animations
 
+## Known issues
+
+- no redelivery for previous users. The Account basicly does not exist anymore and I downt own land to put up a server
+- sometimes there is a dead click in clothing
+
 ## INSTRUCTIONS
 
 
