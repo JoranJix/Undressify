@@ -6,7 +6,6 @@ Also the code is a completely new one and is much leaner.
 Some functions were deliberately left out and other better ones were added.
 For example, a database is no longer necessary, as each system uses its own database in SL. 
 Friends on your friends list can now undress you without an extra entry.
-What is still missing are sounds. 
 All old data, objects and scripts are lost forever. So a new start had to be made.
 
 ## Bug Reporting
