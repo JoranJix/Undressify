@@ -18,6 +18,7 @@ If you discover a bug or a problem, please open an issue here on GitHub!
 ### Version 1.1
 
 - Friends is now working properly
+- Sounds are back
 
 
 ## Key Changes:
