@@ -12,6 +12,7 @@ All old data, objects and scripts are lost forever. So a new start had to be mad
 ## Bug Reporting
 
 If you discover a bug or a problem, please open an issue here on GitHub!
+Same goes for feature requests.
 
 ## Changelog
 
