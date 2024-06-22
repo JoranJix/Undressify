@@ -26,6 +26,7 @@ If you discover a bug or a problem, please open an issue here on GitHub!
 - Leaner code easier to develop
 - Avatars and outfits are not connected anymore
 - No more connection to Casper
+- No more Database connection
 
 ## Key Features:
 - People on your SL friendlist can undress you
