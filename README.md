@@ -1,4 +1,4 @@
-### Intro
+## Intro
 
 This is the successor to "ForceUndress".
 After a very unfortunate event, the system had to be rewritten from scratch. As a result, the creator has changed.
@@ -9,33 +9,33 @@ Friends on your friends list can now undress you without an extra entry.
 What is still missing are sounds. 
 All old data, objects and scripts are lost forever. So a new start had to be made.
 
-### Bug Reporting
+## Bug Reporting
 
 If you discover a bug or a problem, please open an issue here on GitHub!
 
-### Changelog
+## Changelog
 
-## Version 1.1
+### Version 1.1
 
 - Friends is now working properly
 
 
-### Key Changes:
+## Key Changes:
 
 - Leaner code easier to develop
 - Avatars and outfits are not connected anymore
 - No more connection to Casper
 
-### Key Features:
+## Key Features:
 - People on your SL friendlist can undress you
 - Easy to configure access list
 - Its possible to let anyone undress you
 - Undress animations
 
-### INSTRUCTIONS
+## INSTRUCTIONS
 
 
-## How to create the folders
+### How to create the folders
 
 !!NEVER KEEP THE HUD WITHIN YOUR ~undressify FOLDER!! 
 It would get detached on avatar change.
@@ -78,8 +78,8 @@ Sounds corrospond to the folder names. So if you you have a folder named 'top_1'
 You can place your own sounds in the object for different sounds
 
 
-# Info
-## Tested viewers
+## Info
+### Tested viewers
 <a href="https://www.firestormviewer.org/">Firestorm Viewer</a> - Working (tested on Windows and Ubuntu) - RestrainedLife viewer v3.4.3 (RLVa 2.4.2)<br>
 <a href="https://niranv-sl.blogspot.com/">Black Dragon</a> - Working (tested on Windows) - RestrainedLife viewer v3.3.3 (RLVa 2.3.0)<br>
 <a href="https://realrestraint.blogspot.com/">Restrained Love viewer</a> - Working (tested on Windows) - Viewer is outdated<br>
