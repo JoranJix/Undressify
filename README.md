@@ -13,6 +13,13 @@ All old data, objects and scripts are lost forever. So a new start had to be mad
 
 If you discover a bug or a problem, please open an issue here on GitHub!
 
+### Changelog
+
+## Version 1.1
+
+- Friends is now working properly
+
+
 ### Key Changes:
 
 - Leaner code easier to develop
