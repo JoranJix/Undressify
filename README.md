@@ -1,3 +1,6 @@
+## Info
+Due to reallife I have pased developement. But don*t worry. Once things are going there normal way again, I will continue with my work.
+
 ## Intro
 
 This is the successor to "ForceUndress".
