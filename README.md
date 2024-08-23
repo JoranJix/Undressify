@@ -18,6 +18,10 @@ Same goes for feature requests.
 
 ## Changelog
 
+### Version 1.3
+
+- Outfit change for others are back. Check the options menu
+
 ### Version 1.1
 
 - Friends is now working properly
