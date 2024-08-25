@@ -20,7 +20,7 @@ Same goes for feature requests.
 
 ### Version 1.3
 
-- Outfit change for others are back. Check the options menu
+- Outfit change for others is back. Check the options menu
 
 ### Version 1.1
 
