@@ -21,7 +21,7 @@ Same goes for feature requests.
 ### Version 1.5
 
 - New option AVSpecific gives you the option to use avatar specific folders
-  ![grafik](https://github.com/user-attachments/assets/c9ac40f8-4c6a-4679-b99f-5068cc8c9ceb)
+![grafik](https://github.com/user-attachments/assets/c9ac40f8-4c6a-4679-b99f-5068cc8c9ceb)
 
 ### Version 1.3
 
