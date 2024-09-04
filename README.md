@@ -77,14 +77,14 @@ You can have multiple folders. Load an avatar from the >Avatar< button!
 ![outfits (2)](https://github.com/JoranJix/Undressify/assets/4482238/74024574-533a-4f31-9574-f19164618187)
     
 Put your ouftfit into this folder. 
-Folders with the _1 at the end mean the top layer.
-Folders with the _2 at the end mean the layer below. THis can be underwear or bits. (this is fully optional)
-Folders with the _3 at the end mean naked or bits. (this is fully optional but _2 has to be present)
-You can have multiple folders/outfits. 
-Load an Outfit from the >Outfits< button! 
-The button >Clothing< will appear.
-Click it and check how your clothing will be undressed. 
-#RLV\~undressify\addon\<category>\<item>
+Folders with the _1 at the end mean the top layer.<br>
+Folders with the _2 at the end mean the layer below. THis can be underwear or bits. (this is fully optional)<br>
+Folders with the _3 at the end mean naked or bits. (this is fully optional but _2 has to be present)<br>
+You can have multiple folders/outfits.<br>
+Load an Outfit from the >Outfits< button! <br>
+The button >Clothing< will appear.<br>
+Click it and check how your clothing will be undressed. <br>
+#RLV\~undressify\addon\<category>\<item><br>
 
 ![Addons](https://github.com/JoranJix/Undressify/assets/4482238/bc536f69-9b79-4f2c-ade0-532bd3b945eb)
 
