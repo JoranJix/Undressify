@@ -77,7 +77,10 @@ You can have multiple folders. Load an avatar from the >Avatar< button!
 ![outfits (2)](https://github.com/JoranJix/Undressify/assets/4482238/74024574-533a-4f31-9574-f19164618187)
     
 Put your ouftfit into this folder. 
-You can have multiple folders. 
+Folders with the _1 at the end mean the top layer.
+Folders with the _2 at the end mean the layer below. THis can be underwear or bits. (this is fully optional)
+Folders with the _3 at the end mean naked or bits. (this is fully optional but _2 has to be present)
+You can have multiple folders/outfits. 
 Load an Outfit from the >Outfits< button! 
 The button >Clothing< will appear.
 Click it and check how your clothing will be undressed. 
@@ -100,11 +103,11 @@ You can place your own sounds in the object for different sounds
 
 ## Info
 ### Tested viewers
+<a href="https://www.alchemyviewer.org/">Alchemy Viewer</a> - Working - RestrainedLife viewer v3.4.3 (RLVa 2.4.2)<br>
 <a href="https://www.firestormviewer.org/">Firestorm Viewer</a> - Working (tested on Windows and Ubuntu) - RestrainedLife viewer v3.4.3 (RLVa 2.4.2)<br>
 <a href="https://niranv-sl.blogspot.com/">Black Dragon</a> - Working (tested on Windows) - RestrainedLife viewer v3.3.3 (RLVa 2.3.0)<br>
 <a href="https://realrestraint.blogspot.com/">Restrained Love viewer</a> - Working (tested on Windows) - Viewer is outdated<br>
 <a href="https://kokua.atlassian.net/wiki/spaces/KKA/overview?mode=global">Kokua Viewer</a> - Working (tested on MAC by a customer)<br>
-<a href="https://www.alchemyviewer.org/">Alchemy Viewer</a> - Working - RestrainedLife viewer v3.4.3 (RLVa 2.4.2)<br>
 <a href="https://radegast.life/">Radegast Text Viewer</a>  RestrainedLife viewer v1.23 (Radegast-ng 2.41.357.0) **NOT RECOMMENDED** Github is available but getting outdated <a href="https://github.com/cinderblocks/radegast">Github Page</a><br>
 <a href="https://wiki.catznip.com/index.php?title=Catznip_Second_Life_Viewer">Catznip</a>- Working (tested on Windows) - RestrainedLife viewer v3.4.3 (RLVa 2.4.1)<br>
 <a href="https://genesisviewer.blogspot.com/">Genesis</a> - Working (tested on Windows) - RestrainedLife viewer v2.9.0 (RLVa 2.1.0)<br>
