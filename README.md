@@ -76,7 +76,7 @@ You can have multiple folders. Load an avatar from the >Avatar< button!
 
 ![outfits (2)](https://github.com/JoranJix/Undressify/assets/4482238/74024574-533a-4f31-9574-f19164618187)
     
-Put your ouftfit into this folder. 
+Put your ouftfit into this folder. <br>
 Folders with the _1 at the end mean the top layer.<br>
 Folders with the _2 at the end mean the layer below. THis can be underwear or bits. (this is fully optional)<br>
 Folders with the _3 at the end mean naked or bits. (this is fully optional but _2 has to be present)<br>
