@@ -1,20 +1,20 @@
 ## Info
-Due to reallife I have paused developement. But don*t worry. Once things are going there normal way again, I will continue with my work.
+Due to reallife I have paused developement.<br>But don*t worry. Once things are going there normal way again, I will continue with my work.
 
 ## Intro
 
-This is the successor to "ForceUndress".
-After a very unfortunate event, the system had to be rewritten from scratch. As a result, the creator has changed.
-Also the code is a completely new one and is much leaner.
-Some functions were deliberately left out and other better ones were added.
-For example, a database is no longer necessary, as each system uses its own database in SL. 
-Friends on your friends list can now undress you without an extra entry.
-All old data, objects and scripts are lost forever. So a new start had to be made.
+This is the successor to "ForceUndress".<br>
+After a very unfortunate event, the system had to be rewritten from scratch. As a result, the creator has changed.<br>
+Also the code is a completely new one and is much leaner.<br>
+Some functions were deliberately left out and other better ones were added.<br>
+For example, a database is no longer necessary, as each system uses its own database in SL. <br>
+Friends on your friends list can now undress you without an extra entry.<br>
+All old data, objects and scripts are lost forever. So a new start had to be made.<br>
 
 ## Bug Reporting
 
-If you discover a bug or a problem, please open an issue here on GitHub!
-Same goes for feature requests.
+If you discover a bug or a problem, please open an issue here on GitHub!<br>
+Same goes for feature requests.<br>
 
 ## Changelog
 
@@ -57,13 +57,13 @@ Same goes for feature requests.
 
 ### How to create the folders
 
-!!NEVER KEEP THE HUD WITHIN YOUR ~undressify FOLDER!! 
-It would get detached on avatar change.
-I dont take any responsibilities if the hud fails working with other RLV tools.
-You have to create a basic folder structure which is explained below.
-Following Folder Structure is needed to run OpenUndress
-
-Look at the examples to see how your folders need to look like!
+!!NEVER KEEP THE HUD WITHIN YOUR ~undressify FOLDER!!<br> 
+It would get detached on avatar change.<br>
+I dont take any responsibilities if the hud fails working with other RLV tools.<br>
+You have to create a basic folder structure which is explained below.<br>
+Following Folder Structure is needed to run Undressify<br>
+<br>
+Look at the examples to see how your folders need to look like!<br>
 
 #RLV\~undressify\av\<youravatarname>
 
@@ -94,11 +94,11 @@ You can now click your belly or lower back to open the menu and load your avatar
 
 ## Tips and tricks
 
-If you change some textures via HUD on some of your clothing,
-take that piece off manually and reattach it after you changed it.
-Sl tends to ignore the change when something is detached via RLV
-Sounds corrospond to the folder names. So if you you have a folder named 'top_1' the sound for it is 'top'
-You can place your own sounds in the object for different sounds
+If you change some textures via HUD on some of your clothing,<br>
+take that piece off manually and reattach it after you changed it.<br>
+Sl tends to ignore the change when something is detached via RLV<br>
+Sounds corrospond to the folder names. So if you you have a folder named 'top_1' the sound for it is 'top'<br>
+You can place your own sounds in the object for different sounds<br>
 
 
 ## Info
