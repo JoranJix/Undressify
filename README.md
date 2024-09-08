@@ -24,6 +24,7 @@ Same goes for feature requests.<br>
 - ![grafik](https://github.com/user-attachments/assets/c9ac40f8-4c6a-4679-b99f-5068cc8c9ceb)
 - New Plugin Rezzer. Stick anythin you like into the tool to be rezzed from the menu
 - Fixed Clothing Menu bug when the clothing menu deteced one more stage than actually loaded
+- Settings are now saved to survive an update to the next version.
 
 ### Version 1.3
 
