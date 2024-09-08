@@ -35,19 +35,12 @@ Same goes for feature requests.<br>
 - Friends is now working properly
 - Sounds are back
 
-
-## Key Changes:
-
-- Leaner code easier to develop
-- Avatars and outfits are not connected anymore
-- No more connection to Casper
-- No more Database connection
-
 ## Key Features:
 - People on your SL friendlist can undress you
 - Easy to configure access list
 - Its possible to let anyone undress you
 - Undress animations
+- Have seperate outfits for avatars
 
 ## Known issues
 
