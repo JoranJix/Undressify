@@ -17,6 +17,12 @@ If you discover a bug or a problem, please open an issue here on GitHub!<br>
 Same goes for feature requests.<br>
 
 ## Changelog
+
+### Version 1.52
+
+- Hoverheight does not spam anymore
+
+
 ### Version 1.52
 
 - Fixed Main Menu for addons
