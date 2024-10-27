@@ -18,7 +18,7 @@ Same goes for feature requests.<br>
 
 ## Changelog
 
-### Version 1.53
+### Version 1.53 (not released yet)
 
 - Hoverheight does not spam anymore
 - Hovertext feature added. (optional)
