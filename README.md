@@ -25,6 +25,9 @@ Same goes for feature requests.<br>
 - Addons can be enabled for every user.
 - Addon option to enable or disable Addons to users.
 - Addons use categories
+- small changes to add reliability
+Todo: Fix naked function
+      Write API documentation
 
 
 ### Version 1.52
@@ -93,6 +96,7 @@ You can have multiple folders/outfits.<br>
 Load an Outfit from the >Outfits< button! <br>
 The button >Clothing< will appear.<br>
 Click it and check how your clothing will be undressed. <br>
+You can now click your belly or lower back to open the menu and load your avatar, outfit etcetera...
 
 ## Addons
 Addons is a function for Items you like to have on every avatar and outfit. Like Huds, fun toys etcetera <br>
@@ -105,12 +109,6 @@ OLD Version 1.52<br>
 NEW Version 1.53<br>
 ![grafik](https://github.com/user-attachments/assets/f5e264cd-041f-436c-9931-90a74c8b0b16)
 
-
-
-
-Holds stuff you dont want in your outfits like AOs or Dancehuds.. etcetera
-
-You can now click your belly or lower back to open the menu and load your avatar, outfit etcetera...
 
 ## Tips and tricks
 
