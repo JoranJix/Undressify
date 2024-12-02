@@ -24,6 +24,7 @@ Same goes for feature requests.<br>
 - Hovertext feature added. (optional)
 - Addons can be enabled for every user.
 - Addon option to enable or disable Addons to users.
+- Addons use categories
 
 
 ### Version 1.52
@@ -93,8 +94,15 @@ Load an Outfit from the >Outfits< button! <br>
 The button >Clothing< will appear.<br>
 Click it and check how your clothing will be undressed. <br>
 #RLV\~undressify\addon\<category>\<item><br>
+<br>
+OLD Version 1.52<br>
+![Addons](https://github.com/JoranJix/Undressify/assets/4482238/bc536f69-9b79-4f2c-ade0-532bd3b945eb)<br>
+<br>
+NEW Version 1.53<br>
+![grafik](https://github.com/user-attachments/assets/f5e264cd-041f-436c-9931-90a74c8b0b16)
 
-![Addons](https://github.com/JoranJix/Undressify/assets/4482238/bc536f69-9b79-4f2c-ade0-532bd3b945eb)
+
+
 
 Holds stuff you dont want in your outfits like AOs or Dancehuds.. etcetera
 
