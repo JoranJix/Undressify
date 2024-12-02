@@ -93,6 +93,10 @@ You can have multiple folders/outfits.<br>
 Load an Outfit from the >Outfits< button! <br>
 The button >Clothing< will appear.<br>
 Click it and check how your clothing will be undressed. <br>
+
+## Addons
+Addons is a function for Items you like to have on every avatar and outfit. Like Huds, fun toys etcetera <br>
+
 #RLV\~undressify\addon\<category>\<item><br>
 <br>
 OLD Version 1.52<br>
