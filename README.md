@@ -22,6 +22,8 @@ Same goes for feature requests.<br>
 
 - Hoverheight does not spam anymore
 - Hovertext feature added. (optional)
+- Addons can be enabled for every user.
+- Addon option to enable or disable Addons to users.
 
 
 ### Version 1.52
