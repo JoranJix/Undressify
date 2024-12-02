@@ -25,9 +25,9 @@ Same goes for feature requests.<br>
 - Addons can be enabled for every user.
 - Addon option to enable or disable Addons to users.
 - Addons use categories
-- small changes to add reliability
-Todo: Fix naked function
-      Write API documentation
+- small changes to add reliability<br>
+Todo: <br>Fix naked function
+      <br>Write API documentation
 
 
 ### Version 1.52
