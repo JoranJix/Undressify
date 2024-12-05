@@ -25,6 +25,8 @@ Same goes for feature requests.<br>
 - Addons can be enabled for every user.
 - Addon option to enable or disable Addons to users.
 - Addons use categories
+- Adding Avatar Change for users plus the option
+- fixed Access to reset on ownerchange.
 - small changes to add reliability<br>
 Todo: 
       <br>Write API documentation
