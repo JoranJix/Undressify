@@ -121,6 +121,37 @@ Sl tends to ignore the change when something is detached via RLV<br>
 Sounds corrospond to the folder names. So if you you have a folder named 'top_1' the sound for it is 'top'<br>
 You can place your own sounds in the object for different sounds<br>
 
+## API
+
+Undressify listens on channel 5100 and sends on channel 5200<br>
+<br>
+### Commands
+outfit~<nameofoutfit> loads outfit with a name<br>
+avatar~<nameofavatar> loads avatar with a name<br> 
+reload redresses your current outfit.<br>
+callav responds with your current avatar<br>
+callof responds with your current outfit<br>
+
+<br>
+here is a simple listener for the API output
+<code>
+default
+{
+    state_entry()
+    {
+        llGetOwner();
+        llListen(5200,"","","");
+        llListen(5100,"","","");
+    }
+    listen(integer chan,string name,key id,string msg)
+    {
+        if(llGetOwnerKey(id) == llGetOwner())
+        {
+            llOwnerSay((string)chan + " | "+name +":"+msg); 
+        }
+    }
+}
+</code>
 
 ## Info
 ### Tested viewers
