@@ -21,6 +21,7 @@ Same goes for feature requests.<br>
 ### Version 1.53 (not released yet)
 
 - Hoverheight does not spam anymore
+- Naked function disabled until there is a better reliable version
 - Hovertext feature added. (optional)
 - Addons can be enabled for every user.
 - Addon option to enable or disable Addons to users.
