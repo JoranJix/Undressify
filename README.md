@@ -29,8 +29,7 @@ Same goes for feature requests.<br>
 - Adding Avatar Change for users plus the option
 - fixed Access to reset on ownerchange.
 - small changes to add reliability<br>
-Todo: 
-      <br>Write API documentation
+- API is documented https://github.com/JoranJix/Undressify/blob/main/README.md#api
 
 
 ### Version 1.52
