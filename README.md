@@ -18,6 +18,10 @@ Same goes for feature requests.<br>
 
 ## Changelog
 
+### Version 1.55
+
+- FINALLY fixed the naked function
+
 ### Version 1.54
 
 - Hoverheight does not spam anymore
