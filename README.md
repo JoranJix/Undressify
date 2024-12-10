@@ -83,16 +83,16 @@ Following Folder Structure is needed to run Undressify<br>
 <br>
 Look at the examples to see how your folders need to look like!<br>
 <br>
-<code> #RLV\~undressify\av\ <youravatarname> </code>
+<code> #RLV\~undressify\av\youravatarname </code>
 <br>
 ![Avatar](https://github.com/JoranJix/Undressify/assets/4482238/225f0f78-8195-4bb7-81c3-0dc1745f25ae)
     <br>
 Put your naked avatar into this folder. <br>
 You can have multiple folders. Load an avatar from the >Avatar< button!<br>
 <br>
-<code> #RLV\~undressify\of\>youroutfitname< </code><br>
+<code> #RLV\~undressify\of\youroutfitname </code><br>
 Optional you can create it like this<br>
-<code> #RLV\~undressify\of_<avatarname>\>youroutfitname< </code><br>
+<code> #RLV\~undressify\of_avatarname\youroutfitname </code><br>
 And activate avspecific<br>
 
 ![outfits (2)](https://github.com/JoranJix/Undressify/assets/4482238/74024574-533a-4f31-9574-f19164618187)
@@ -110,7 +110,7 @@ You can now click your belly or lower back to open the menu and load your avatar
 ## Addons
 Addons is a function for Items you like to have on every avatar and outfit. Like Huds, fun toys etcetera <br>
 
-<code> #RLV\~undressify\addon\<category>\>item<</code><br>
+<code> #RLV\~undressify\addon\category\item</code><br>
 <br>
 OLD Version 1.52<br>
 ![Addons](https://github.com/JoranJix/Undressify/assets/4482238/bc536f69-9b79-4f2c-ade0-532bd3b945eb)<br>
