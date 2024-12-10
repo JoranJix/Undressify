@@ -10,7 +10,7 @@ All old data, objects and scripts are lost forever. So a new start had to be mad
 
 ## Bug Reporting
 
-If you discover a bug or a problem, please open an issue here on GitHub!<br>
+If you discover a bug or a problem, please open an issue here on GitHub! or send a notecard to Miko Astral<br>
 Same goes for feature requests.<br>
 
 ## Changelog
