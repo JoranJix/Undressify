@@ -58,11 +58,12 @@ Same goes for feature requests.<br>
 - Sounds are back
 
 ## Key Features:
-- People on your SL friendlist can undress you
+- People on your SL friendlist can undress you (optional)
 - Easy to configure access list
-- Its possible to let anyone undress you
-- Undress animations
-- Have seperate outfits for avatars
+- Its possible to let anyone undress you (optional)
+- Its possible to change outfit and avatar (optional)
+- Undress animations (optional)
+- Have seperate outfits for avatars (optional)
 
 ## Known issues
 
