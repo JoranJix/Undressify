@@ -1,6 +1,3 @@
-## Info
-Due to reallife I have paused developement.<br>But don*t worry. Once things are going there normal way again, I will continue with my work.
-
 ## Intro
 
 This is the successor to "ForceUndress".<br>
@@ -22,7 +19,7 @@ Same goes for feature requests.<br>
 
 - FINALLY fixed the naked function
 - Fixed the missing Avatars button in the users menu
-- Fixed a problm when you got stuck in the options menu
+- Fixed a problem when you got stuck in the options menu
 
 ### Version 1.54
 
