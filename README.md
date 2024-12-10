@@ -83,7 +83,7 @@ Following Folder Structure is needed to run Undressify<br>
 <br>
 Look at the examples to see how your folders need to look like!<br>
 <br>
-<code> #RLV\~undressify\av\<youravatarname></code>
+<code> #RLV\~undressify\av\ <youravatarname> </code>
 <br>
 ![Avatar](https://github.com/JoranJix/Undressify/assets/4482238/225f0f78-8195-4bb7-81c3-0dc1745f25ae)
     <br>
