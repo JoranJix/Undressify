@@ -90,9 +90,9 @@ Look at the examples to see how your folders need to look like!<br>
 Put your naked avatar into this folder. <br>
 You can have multiple folders. Load an avatar from the >Avatar< button!<br>
 <br>
-<cde>#RLV\~undressify\of\<youroutfitname> </code><br>
+<code> #RLV\~undressify\of\<youroutfitname> </code><br>
 Optional you can create it like this
-<cde>#RLV\~undressify\of_<avatarname>\<youroutfitname> </code>
+<code> #RLV\~undressify\of_<avatarname>\<youroutfitname> </code>
 And activate avspecific<br>
 
 ![outfits (2)](https://github.com/JoranJix/Undressify/assets/4482238/74024574-533a-4f31-9574-f19164618187)
