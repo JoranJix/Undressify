@@ -21,6 +21,8 @@ Same goes for feature requests.<br>
 ### Version 1.55
 
 - FINALLY fixed the naked function
+- Fixed the missing Avatars button in the users menu
+- Fixed a problm when you got stuck in the options menu
 
 ### Version 1.54
 
