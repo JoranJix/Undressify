@@ -15,60 +15,11 @@ Same goes for feature requests.<br>
 
 ## Changelog
 
-### Version 1.55
+### Version 1.56
 
-- FINALLY fixed the naked function
-- Fixed the missing Avatars button in the users menu
-- Fixed a problem when you got stuck in the options menu
+- Fixed the naked function again.
+- Also fixed a wrong reset in the main script. It now detects the owner right
 
-### Version 1.54
-
-- Hoverheight does not spam anymore
-- Naked function disabled until there is a better reliable version
-- Hovertext feature added. (optional)
-- Addons can be enabled for every user.
-- Addon option to enable or disable Addons to users.
-- Addons use categories
-- Adding Avatar Change for users plus the option
-- fixed Access to reset on ownerchange.
-- small changes to add reliability<br>
-- API is documented https://github.com/JoranJix/Undressify/blob/main/README.md#api
-
-
-### Version 1.52
-
-- Fixed Main Menu for addons
-- Changed some code for efficency
-
-### Version 1.5
-
-- New option AVSpecific gives you the option to use avatar specific folders
-- ![grafik](https://github.com/user-attachments/assets/c9ac40f8-4c6a-4679-b99f-5068cc8c9ceb)
-- New Plugin Rezzer. Stick anythin you like into the tool to be rezzed from the menu
-- Fixed Clothing Menu bug when the clothing menu deteced one more stage than actually loaded
-- Settings are now saved to survive an update to the next version.
-
-### Version 1.3
-
-- Outfit change for others is back. Check the options menu
-
-### Version 1.1
-
-- Friends is now working properly
-- Sounds are back
-
-## Key Features:
-- People on your SL friendlist can undress you (optional)
-- Easy to configure access list
-- Its possible to let anyone undress you (optional)
-- Its possible to change outfit and avatar (optional)
-- Undress animations (optional)
-- Have seperate outfits for avatars (optional)
-
-## Known issues
-
-- no redelivery for previous users. The Account basicly does not exist anymore and I downt own land to put up a server
-- sometimes there is a dead click in clothing
 
 ## INSTRUCTIONS
 
