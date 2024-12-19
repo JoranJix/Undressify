@@ -18,6 +18,7 @@ Same goes for feature requests.<br>
 ### Version 1.57
 
 - adding extender.lsl with additional functions for the API
+- changed internal functrions and made some code optimisation
 
 
 ## INSTRUCTIONS
