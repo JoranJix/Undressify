@@ -15,10 +15,9 @@ Same goes for feature requests.<br>
 
 ## Changelog
 
-### Version 1.56
+### Version 1.57
 
-- Fixed the naked function again.
-- Also fixed a wrong reset in the main script. It now detects the owner right
+- adding extender.lsl with additional functions for the API
 
 
 ## INSTRUCTIONS
