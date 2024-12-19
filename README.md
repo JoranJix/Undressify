@@ -20,6 +20,7 @@ Same goes for feature requests.<br>
 - adding extender.lsl with additional functions for the API to bring back functionalities
 - changed internal functrions and made some code optimisation to save more memory
 - settings stay over updates
+- Changed updater so you can choose if you want to do a complete update or just for main functionality
 
 
 ## INSTRUCTIONS
