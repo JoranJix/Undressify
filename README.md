@@ -27,7 +27,7 @@ Same goes for feature requests.<br>
 
 ### How to create the folders
 
-!!NEVER KEEP THE HUD WITHIN YOUR ~undressify FOLDER!!<br> 
+!!NEVER KEEP THE TOOL WITHIN YOUR ~undressify FOLDER!!<br> 
 It would get detached on avatar change.<br>
 I dont take any responsibilities if the hud fails working with other RLV tools.<br>
 You have to create a basic folder structure which is explained below.<br>
