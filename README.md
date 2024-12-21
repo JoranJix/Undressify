@@ -123,6 +123,18 @@ default
 </code>
 
 ## Info
+
+### Things I will do
+
+Custom systems and tools to work with undressify.
+
+### Not going to do
+
+No custom addon folders for avatars.
+No attack scripts.
+No spy scripts.
+No backdoors to any of my systems.
+
 ### Tested viewers
 <a href="https://www.alchemyviewer.org/">Alchemy Viewer</a> - Working - RestrainedLife viewer v3.4.3 (RLVa 2.4.2)<br>
 <a href="https://www.firestormviewer.org/">Firestorm Viewer</a> - Working (tested on Windows and Ubuntu) - RestrainedLife viewer v3.4.3 (RLVa 2.4.2)<br>
