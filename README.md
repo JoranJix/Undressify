@@ -52,8 +52,8 @@ Optional you can create it like this<br>
 And activate avspecific<br>
 ![grafik](https://github.com/user-attachments/assets/beb3ace8-2159-4014-a69f-0a64cf2c26d2)<br>
 <code> #RLV\~undressify\of_avatarname\youroutfitname </code><br>
-![outfits (2)](https://github.com/JoranJix/Undressify/assets/4482238/74024574-533a-4f31-9574-f19164618187)
-    
+![grafik](https://github.com/user-attachments/assets/81bbcbc6-a163-4e9a-b1a0-4bf82d8fd821)<br>
+<br>
 Put your ouftfit into this folder. <br>
 Folders with the _1 at the end mean the top layer.<br>
 Folders with the _2 at the end mean the layer below. THis can be underwear or bits. (this is fully optional)<br>
