@@ -8,6 +8,9 @@ For example, a database is no longer necessary, as each system uses its own data
 Friends on your friends list can now undress you without an extra entry.<br>
 All old data, objects and scripts are lost forever. So a new start had to be made.<br>
 
+- Pro. Keep your complexity low by not wearing any transparent body parts
+- Pro. No need to search allover your inventory to change clothing layers.
+
 ## Bug Reporting
 
 If you discover a bug or a problem, please open an issue here on GitHub! or send a notecard to Miko Astral<br>
@@ -15,12 +18,13 @@ Same goes for feature requests.<br>
 
 ## Changelog
 
-### Version 1.57
+### Version 1.57 (in developement)
 
 - adding extender.lsl with additional functions for the API to bring back functionalities
 - changed internal functrions and made some code optimisation to save more memory
 - settings stay over updates
 - Changed updater so you can choose if you want to do a complete update or just for main functionality
+- Corrected tutorial for a few functions
 
 
 ## INSTRUCTIONS
@@ -40,7 +44,7 @@ Look at the examples to see how your folders need to look like!<br>
 <br>
 ![Avatar](https://github.com/JoranJix/Undressify/assets/4482238/225f0f78-8195-4bb7-81c3-0dc1745f25ae)
     <br>
-Put your naked avatar into this folder. WITHOUT TESTICLES!<br>
+Put your naked avatar into this folder. WITHOUT TESTICLES! Except you really want to carry scriptbombs<br>
 You can have multiple folders. Load an avatar from the >Avatar< button!<br>
 <br>
 ### Version1
