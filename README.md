@@ -8,6 +8,9 @@ For example, a database is no longer necessary, as each system uses its own data
 Friends on your friends list can now undress you without an extra entry.<br>
 All old data, objects and scripts are lost forever. So a new start had to be made.<br>
 
+<a href="http://maps.secondlife.com/secondlife/Cloudville/247/65/601">Inworld Vendor</a><br>
+
+
 - Pro. Keep your complexity low by not wearing any transparent body parts
 - Pro. No need to search allover your inventory to change clothing layers.
 
