@@ -43,11 +43,15 @@ Look at the examples to see how your folders need to look like!<br>
 Put your naked avatar into this folder. WITHOUT TESTICLES!<br>
 You can have multiple folders. Load an avatar from the >Avatar< button!<br>
 <br>
+### Version1
 <code> #RLV\~undressify\of\youroutfitname </code><br>
+![grafik](https://github.com/user-attachments/assets/e514ad46-10f2-4318-8b5d-a2b90a9742f0)
+### Version2
 Optional you can create it like this<br>
-<code> #RLV\~undressify\of_avatarname\youroutfitname </code><br>
-And activate avspecific<br>
 
+And activate avspecific<br>
+![grafik](https://github.com/user-attachments/assets/beb3ace8-2159-4014-a69f-0a64cf2c26d2)
+<code> #RLV\~undressify\of_avatarname\youroutfitname </code><br>
 ![outfits (2)](https://github.com/JoranJix/Undressify/assets/4482238/74024574-533a-4f31-9574-f19164618187)
     
 Put your ouftfit into this folder. <br>
