@@ -40,7 +40,7 @@ Look at the examples to see how your folders need to look like!<br>
 <br>
 ![Avatar](https://github.com/JoranJix/Undressify/assets/4482238/225f0f78-8195-4bb7-81c3-0dc1745f25ae)
     <br>
-Put your naked avatar into this folder. <br>
+Put your naked avatar into this folder. WITHOUT TESTICLES!<br>
 You can have multiple folders. Load an avatar from the >Avatar< button!<br>
 <br>
 <code> #RLV\~undressify\of\youroutfitname </code><br>
@@ -64,9 +64,6 @@ You can now click your belly or lower back to open the menu and load your avatar
 Addons is a function for Items you like to have on every avatar and outfit. Like Huds, fun toys etcetera <br>
 
 <code> #RLV\~undressify\addon\category\item</code><br>
-<br>
-OLD Version 1.52<br>
-![Addons](https://github.com/JoranJix/Undressify/assets/4482238/bc536f69-9b79-4f2c-ade0-532bd3b945eb)<br>
 <br>
 NEW Version 1.53 and up<br>
 ![grafik](https://github.com/user-attachments/assets/f5e264cd-041f-436c-9931-90a74c8b0b16)
