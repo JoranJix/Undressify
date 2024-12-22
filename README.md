@@ -149,7 +149,7 @@ No backdoors to any of my systems.
 <a href="http://sldev.free.fr/">CoolViewer</a> - Working but has odd behaviours (tested on Windows)<br>
 <a href="https://www.mysmartbots.com/">mysmartbots</a> - Working but only from remote side limited functions- **NOT RECOMMENDED** - Closed source.<br>
 <a href="https://corrade.grimore.org/">Corrade Bot</a> - limited functions - RLV is super outdated. Only 16 available attachement points. Reactiontime is very slow.<br>
-Lumiya Mobile client- its working. Thats a surprise!<br>
+<a href="https://apkcombo.com/de/lumiya/com.lumiyaviewer.lumiya/">Lumiya Mobile clien</a> - its working. Thats a surprise!<br> 
 <a href="https://speedlight.io](https://megapahit.net/">Megapahit</a> - NOT WORKING - No RLV present<br>
 ## Not Tested viewers
 <a href="https://speedlight.io/">Speedlight</a><br>
