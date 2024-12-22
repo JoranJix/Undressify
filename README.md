@@ -150,6 +150,7 @@ No backdoors to any of my systems.
 <a href="https://www.mysmartbots.com/">mysmartbots</a> - Working but only from remote side limited functions- **NOT RECOMMENDED** - Closed source.<br>
 <a href="https://corrade.grimore.org/">Corrade Bot</a> - limited functions - RLV is super outdated. Only 16 available attachement points. Reactiontime is very slow.<br>
 Lumiya Mobile client- its working. Thats a surprise!<br>
+<a href="https://speedlight.io](https://megapahit.net/">Megapahit</a> - NOT WORKING - No RLV present<br>
 ## Not Tested viewers
 <a href="https://speedlight.io/">Speedlight</a><br>
 <a href="https://mobilegridclient.com/download/">Mobile Grid Client<</a><br>
