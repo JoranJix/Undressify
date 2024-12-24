@@ -30,6 +30,9 @@ Same goes for feature requests.<br>
 - settings stay over updates
 - Changed updater so you can choose if you want to do a complete update or just for main functionality
 - Corrected tutorial for a few functions
+- New Plugin. Redress timer with distance and time until you redress after people left
+- New function. Ask for permission to undress you
+- 
 
 
 ## INSTRUCTIONS
