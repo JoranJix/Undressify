@@ -25,13 +25,15 @@ Same goes for feature requests.<br>
 
 ### Version 1.57 (in developement)
 
-- adding extender.lsl with additional functions for the API to bring back functionalities
-- changed internal functrions and made some code optimisation to save more memory
+- adding extender.lsl with additional functions for the API to bring back functionalities and new goodones
+- changed internal functions and made some code optimisation to save more memory
 - settings stay over updates
 - Changed updater so you can choose if you want to do a complete update or just for main functionality
 - Corrected tutorial for a few functions
 - New Plugin. Redress timer with distance and time until you redress after people left
 - New function. Ask for permission to undress you
+- fixed hoverheight. It really works now!
+- fixed the updater so it does not request every system in range (that was stupid)
 - 
 
 
