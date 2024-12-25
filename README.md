@@ -34,8 +34,10 @@ Same goes for feature requests.<br>
 - New function. Ask for permission to undress you
 - fixed hoverheight. It really works now!
 - fixed the updater so it does not request every system in range (that was stupid)
-- 
-
+  
+### Plans for 2025
+- Make an optional HUD
+- Make more shenanigans to work with undressify
 
 ## INSTRUCTIONS
 
