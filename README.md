@@ -23,7 +23,7 @@ Same goes for feature requests.<br>
 
 ## Changelog
 
-### Version 1.57 (in developement)
+### Version 1.57
 
 - adding extender.lsl with additional functions for the API to bring back functionalities and new goodones
 - changed internal functions and made some code optimisation to save more memory
