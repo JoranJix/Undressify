@@ -23,17 +23,12 @@ Same goes for feature requests.<br>
 
 ## Changelog
 
-### Version 1.57
+### Version 1.58
 
-- adding extender.lsl with additional functions for the API to bring back functionalities and new goodones
-- changed internal functions and made some code optimisation to save more memory
-- settings stay over updates
-- Changed updater so you can choose if you want to do a complete update or just for main functionality
-- Corrected tutorial for a few functions
-- New Plugin. Redress timer with distance and time until you redress after people left
-- New function. Ask for permission to undress you
-- fixed hoverheight. It really works now!
-- fixed the updater so it does not request every system in range (that was stupid)
+- clothing menu will be restored if its the last menu
+- naked button is removed from the external menu THERE YOU GO YOU MISFITS!
+- the external menu does not get stuck anymore
+- Hovertext and Scanner are not written in Lowercase anymore
   
 ### Plans for 2025
 - Make an optional HUD
