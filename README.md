@@ -83,6 +83,14 @@ Addons is a function for Items you like to have on every avatar and outfit. Like
 NEW Version 1.53 and up<br>
 ![grafik](https://github.com/user-attachments/assets/f5e264cd-041f-436c-9931-90a74c8b0b16)
 
+## AvAddons
+AvAddons is a function for Items you like to have on your current and outfit. Like Huds, fun toys etcetera <br>
+
+<code> #RLV\~undressify\av_addon\avatarname\category\item</code><br>
+<br>
+NEW plugin in Version 1.60 and up<br>
+![grafik](https://github.com/user-attachments/assets/83bc1b29-6c01-4158-af7d-4d6c38e96f05)
+
 
 ## Tips and tricks
 
