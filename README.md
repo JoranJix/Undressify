@@ -23,12 +23,18 @@ Same goes for feature requests.<br>
 
 ## Changelog
 
-### Version 1.58
+### Version 1.60
 
-- clothing menu will be restored if its the last menu
-- naked button is removed from the external menu THERE YOU GO YOU MISFITS!
-- the external menu does not get stuck anymore
-- Hovertext and Scanner are not written in Lowercase anymore
+- Alot of code has moved to the new extender plugin. 
+- anims.lsl is now obsolete. / moved to the extender
+- rezzer and scanner have been removed to save memory
+- Hovertext should load the right data now
+- the access app has been moved to the extender now
+- Redress timer to activate redressing when noone is near a variable distance
+- click distance is now variable. See options!
+- Discord and Group have been added to the menus
+- Hovertext off by default
+- New setting if API is available for scripts or not.
   
 ### Plans for 2025
 - Make an optional HUD
